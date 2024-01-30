@@ -1,0 +1,41 @@
+
+        input{
+            border-width: 1px;
+            border-style: solid;
+            border-color: rgb(200, 200, 200);
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 16px;
+            padding-right: 16px;
+            font-size: 16px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            
+        }
+        .First{
+            width: 148px;
+            
+            
+        }
+        .second{
+            width: 148px;
+            margin-bottom: 12px;
+        }
+        .third{
+            display: block;
+            width: 300px;
+            margin-bottom: 12px;
+        }
+        .button{
+            background-color: rgb(47, 127, 231);
+            color: white;
+            border: 0;
+            padding-left: 130px;
+            padding-right: 130px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-radius: 12px;
+            font-weight: bold;
+
+        }
+    
